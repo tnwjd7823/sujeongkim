@@ -12,6 +12,12 @@ body {
 .title{font-size:20px;margin-top:150px;}
 .footer_info{padding-left:250px;}
 .handle{}
+.collabo{width:100%;}
+.card{width:45%;}
+.croket{width:50%;}
+.request{width:100%;}
+.cr_arr{text-align:left;}
+.web{width:80%;}
 
 .icon {
   width:200px;
