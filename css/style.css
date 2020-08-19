@@ -7,17 +7,21 @@ body {
     overflow-x: hidden;
 }
 .profile{text-align:right;padding-right:130px;margin-top:-20px;}
-.motto{text-align:center;}
+.motto{text-align:center;font-size:15px;}
+.motto_box{}
 .home{font-style:italic; text-decoration:underline;font-weight:bolder;}
 .title{font-size:20px;margin-top:150px;}
 .footer_info{padding-left:250px;}
-.handle{}
+.handle h3{font-size:18px;}
+.handle{margin-left:36px;}
 .collabo{width:100%;}
 .card{width:45%;}
-.croket{width:50%;}
+.croket{width:80%;}
 .request{width:100%;}
 .cr_arr{text-align:left;}
 .web{width:80%;}
+.handle{padding-top:50px;}
+.handle li{font-size:13px;}
 
 .icon {
   width:200px;
@@ -343,7 +347,7 @@ a:hover, a:active, a:focus {
 
 #about ul li {
   color: #777;
-  font-size: 16px;
+  font-size: 13px;
   font-weight: 400;
   padding-top: 2px;
   padding-bottom: 2px;
