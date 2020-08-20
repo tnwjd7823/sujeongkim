@@ -18,10 +18,11 @@ body {
 .card{width:45%;}
 .croket{width:80%;}
 .request{width:100%;}
-.cr_arr{text-align:left;}
+.cr_arr{text-align:left;margin-left:150px;}
 .web{width:80%;}
 .handle{padding-top:50px;}
-.handle li{font-size:13px;}
+.handle li{font-size:10px;}
+.cr_title{}
 
 .icon {
   width:200px;
